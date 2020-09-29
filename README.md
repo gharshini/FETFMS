@@ -1,6 +1,6 @@
-# Fetal-eye-tracking-from-ultrasound-scans
+# FETFMS
 
-Guidelines for Eye Tracking
+This repository helps to track fetal eye balls from ultrasound scans. Guidelines for Eye Tracking
 
 There are two .m files that are to be used to perform the eye tracking 
 1.	Main_Program
