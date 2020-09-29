@@ -83,7 +83,3 @@ Cropping criteria for head motion
 4.	Head Motion Correction
 a.	Generate the plot, check for region with sudden jump over 40 degrees, get the frame number
 b.	Crop those frames as  done earlier with lens or eyeball
-
-
-
-There are four .mp4 files as an example 
